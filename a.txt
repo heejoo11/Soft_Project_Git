@@ -1,6 +1,0 @@
-It is a first file for GIT.
-Add a line!
-Add one more line.
-Add a formula 1+1=2
-Add a greeting Hello!
-I have a new idea.
